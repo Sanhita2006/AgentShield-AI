@@ -1,0 +1,6 @@
+{
+  "name": "AgentShield",
+  "description": "Zero-trust security gateway between AI agents and banking APIs with scoped delegation, behavioural anomaly detection, human-in-the-loop escalation, and tamper-evident audit chains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
