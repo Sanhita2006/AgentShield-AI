@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AgentShield — Zero-Trust Security Gateway for AI Banking Agents
 
 **Team Strive GBI** · Sushweta Ghosh, Sanhita Bhattacharjee, Indrani Deb Roy
@@ -134,3 +135,7 @@ Cookie-authenticated POSTs also reject a mismatched `Origin` header (CSRF), and 
 ## Tests
 
 `npm test` runs the pipeline suite, the web-layer security suite (auth, PIN, ownership, token issuance, scoped events, production config) and a hardening suite (approval re-validation, token redaction, category/allowlist enforcement, cold-start escalation, idempotency scoping, audit-tail truncation).
+=======
+# AgentShield-AI
+A zero-trust security gateway designed to sit between AI agents and banking APIs. It enforces deterministic policy controls, scoped delegation, behavioral monitoring, step-up approval workflows, and verifiable audit logging before any agent-initiated financial action can execute
+>>>>>>> fdc219bc9c3cea0bd865f1238dad40d6c5dbe773
